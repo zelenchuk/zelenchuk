@@ -63,13 +63,15 @@ Simple. Transparent. Focused on results.
 ## 📈 GitHub Statistics
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=zelenchuk&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zelenchuk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"  alt="GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelenchuk&layout=compact&hide_border=true" alt="Top Languages" height="165">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zelenchuk&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-</p>
+
 
 ---
 
@@ -79,7 +81,7 @@ Simple. Transparent. Focused on results.
 <p align="center">
   <a href="https://t.me/zelenchuk_sergei"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:zelenchyks@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://zelenchuk.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!--   <a href="https://zelenchuk.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/></a> -->
 </p>
 
 ---
