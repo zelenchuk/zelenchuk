@@ -2,7 +2,7 @@
  🧱  Architect of Growth Systems — GitHub Profile README
 ========================================================= -->
 
-<h1 align="center">Hi, I'm Sergey Zelenchuk 🚀</h1>
+<h1 align="center">Hi, I'm Serhii Zelenchuk 🚀</h1>
 <h3 align="center">Systems Architect · Digital Assets Engineer · Builder of Growth Structures</h3>
 
 ---
@@ -27,16 +27,6 @@ I build digital solutions that:
 | **Mini-products**      | MVPs, launch landing pages, online courses             | Validate ideas in 2–4 weeks         |
 | **Knowledge Systems**  | Internal databases, structured expertise repositories  | Scale teams 3x faster               |
 | **Client Flow Scaling**| Client tracking, dynamic sales funnels, analytics      | Boost client acquisition by 25–40%  |
-
----
-
-## 🏆 Projects and Results
-
-- 🚀 **CRM system for a real estate agency** — Automated client management, increased revenue by +45% in 6 months.
-- 🚀 **MVP platform for online courses** — Launched in 3 weeks, generated over 100 first sales.
-- 🚀 **Internal task tracker for a small team** — Reduced coordination time by 40%.
-
-👉 *(See more projects in my [repositories](https://github.com/zelenchuk?tab=repositories))*
 
 ---
 
@@ -87,8 +77,8 @@ Simple. Transparent. Focused on results.
 
 💬 **Let's discuss your project and how I can help:**
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/zelenchuk_sergei"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:zelenchyks@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://zelenchuk.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
