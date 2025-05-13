@@ -68,20 +68,6 @@ Simple. Transparent. Focused on results.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" />
 </p>
 
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zelenchuk&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelenchuk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"  alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelenchuk&layout=compact&hide_border=true" alt="Top Languages" height="165">
-</p>
-
-
 
 ---
 
