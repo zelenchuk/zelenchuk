@@ -75,7 +75,7 @@ Simple. Transparent. Focused on results.
 
 💬 **Let's discuss your project and how I can help:**
 <p align="center">
-  <a href="https://t.me/zelenchuk_sergei"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/serge_zelenchuk"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:zelenchyks@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <!--   <a href="https://zelenchuk.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/></a> -->
 </p>
